@@ -3,7 +3,7 @@ function Menus() {
     return (
       <>
           <li className="mx-3">
-              <a onClick={() => scrollToSection('gallery')} href="">Lorem</a>
+              <a onClick={() => scrollToSection('gallery')} href="">Lssorem</a>
           </li>
           <li className="mx-3">
               <a onClick={() => scrollToSection('gallery')} href="">Lorem</a>
