@@ -1,4 +1,4 @@
-import Menus from './menus.jsx'
+import Menus from './Menus.jsx'
 
 function Header() {
 
